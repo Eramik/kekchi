@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kekchi</string>
+
+    <string name="title_activity_menu">Menu</string>
+    <string name="play_button">Play</string>
+    <string name="menu_game_title">KEKCHI</string>
+</resources>
